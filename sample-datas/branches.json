@@ -1,0 +1,177 @@
+[
+  '{
+    "name": {
+      "kaff": "Boongi Kateme Dichee Uubariyoo",
+      "amh": "ቦንጋ ከተማ እድገት ድጋፍ ማስትባበርያ",
+      "eng": "Bonga Town Development Program"
+    },
+    "description": {
+      "kaff": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro possimus odio reiciendis. Atque vel incidunt sit deserunt? In, maxime temporibus? Sequi rerum eius accusamus veritatis quo qui voluptatem fugiat similique?",
+      "amh": "ዘባርቅ ምስጥርን ውድ መተግበሪያ ዕቅድ ገሰገሰ መጸሐፍ በመስኮት በመስኮት ቅኔዎቹ የጋሪው ጎሮምሳ ሌላውን እንደኛው የጋሪው ኢትዮጵያ ጎሮምሳ እንጂ ለሚገኙ ዕቅድ የኩሬውን በጠዋቱ ትክክል ቃላቶች የተሳካለት የኩሬውን ታታሪ በዘፈቀደ ኢትዮጵያ ኢትዮጵያ ኢትዮጵያ መብላት የጋሪው ዕቅድ እና ምድር ወይም ገሰገሰ ቀይሮ እሷ ለሱሪ እሷ መቋረጥ ኢትዮጵያ ከእትዬ የጋሪው የጋሪው ገሰገሰ ሌላውን ኢትዮጵያ ጎበዝ እሷ መጸሐፍ ወጣቶቹ መተግበሪያ ሲሻገር ኢትዮጵያ ብጠይቅ አጠናቀቁ መተግበሪያ መተግበሪያ ::",
+      "eng": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro possimus odio reiciendis. Atque vel incidunt sit deserunt? In, maxime temporibus? Sequi rerum eius accusamus veritatis quo qui voluptatem fugiat similique?"
+    },
+    "contactInfo": {
+      "email": "bg@test.com",
+      "facebookLink": "https://www.facebook.com",
+      "telegramLink": "https://tg.com",
+      "phoneNumbers": [
+        "+25111-232-23233",
+        "+25111-232-23233"
+      ]
+    },
+    "members": [
+      {
+        "name": {
+          "kaff": "Addeme Abebe",
+          "amh": "አደመ አበበ",
+          "eng": "Ademe Abebe"
+        },
+        "occopation": {
+          "kaff": "Bonga city administrator",
+          "amh": "የቦንጋ ከተማ አስተዳዳ",
+          "eng": "Bonga city Governor"
+        }
+      }
+    ]
+  },
+  {
+    "name": {
+      "kaff": "Boongi Kateme Dichee Uubariyoo",
+      "amh": "ቦንጋ ከተማ እድገት ድጋፍ ማስትባበርያ",
+      "eng": "Bonga Town Development Program"
+    },
+    "description": {
+      "kaff": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro possimus odio reiciendis. Atque vel incidunt sit deserunt? In, maxime temporibus? Sequi rerum eius accusamus veritatis quo qui voluptatem fugiat similique?",
+      "amh": "ዘባርቅ ምስጥርን ውድ መተግበሪያ ዕቅድ ገሰገሰ መጸሐፍ በመስኮት በመስኮት ቅኔዎቹ የጋሪው ጎሮምሳ ሌላውን እንደኛው የጋሪው ኢትዮጵያ ጎሮምሳ እንጂ ለሚገኙ ዕቅድ የኩሬውን በጠዋቱ ትክክል ቃላቶች የተሳካለት የኩሬውን ታታሪ በዘፈቀደ ኢትዮጵያ ኢትዮጵያ ኢትዮጵያ መብላት የጋሪው ዕቅድ እና ምድር ወይም ገሰገሰ ቀይሮ እሷ ለሱሪ እሷ መቋረጥ ኢትዮጵያ ከእትዬ የጋሪው የጋሪው ገሰገሰ ሌላውን ኢትዮጵያ ጎበዝ እሷ መጸሐፍ ወጣቶቹ መተግበሪያ ሲሻገር ኢትዮጵያ ብጠይቅ አጠናቀቁ መተግበሪያ መተግበሪያ ::",
+      "eng": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro possimus odio reiciendis. Atque vel incidunt sit deserunt? In, maxime temporibus? Sequi rerum eius accusamus veritatis quo qui voluptatem fugiat similique?"
+    },
+    "contactInfo": {
+      "email": "bg@test.com",
+      "facebookLink": "https://www.facebook.com",
+      "telegramLink": "https://tg.com",
+      "phoneNumbers": [
+        "+25111-232-23233",
+        "+25111-232-23233"
+      ]
+    },
+    "members": [
+      {
+        "name": {
+          "kaff": "Addeme Abebe",
+          "amh": "አደመ አበበ",
+          "eng": "Ademe Abebe"
+        },
+        "occopation": {
+          "kaff": "Bonga city administrator",
+          "amh": "የቦንጋ ከተማ አስተዳዳ",
+          "eng": "Bonga city Governor"
+        }
+      }
+    ]
+  },
+  {
+    "name": {
+      "kaff": "Boongi Kateme Dichee Uubariyoo",
+      "amh": "ቦንጋ ከተማ እድገት ድጋፍ ማስትባበርያ",
+      "eng": "Bonga Town Development Program"
+    },
+    "description": {
+      "kaff": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro possimus odio reiciendis. Atque vel incidunt sit deserunt? In, maxime temporibus? Sequi rerum eius accusamus veritatis quo qui voluptatem fugiat similique?",
+      "amh": "ዘባርቅ ምስጥርን ውድ መተግበሪያ ዕቅድ ገሰገሰ መጸሐፍ በመስኮት በመስኮት ቅኔዎቹ የጋሪው ጎሮምሳ ሌላውን እንደኛው የጋሪው ኢትዮጵያ ጎሮምሳ እንጂ ለሚገኙ ዕቅድ የኩሬውን በጠዋቱ ትክክል ቃላቶች የተሳካለት የኩሬውን ታታሪ በዘፈቀደ ኢትዮጵያ ኢትዮጵያ ኢትዮጵያ መብላት የጋሪው ዕቅድ እና ምድር ወይም ገሰገሰ ቀይሮ እሷ ለሱሪ እሷ መቋረጥ ኢትዮጵያ ከእትዬ የጋሪው የጋሪው ገሰገሰ ሌላውን ኢትዮጵያ ጎበዝ እሷ መጸሐፍ ወጣቶቹ መተግበሪያ ሲሻገር ኢትዮጵያ ብጠይቅ አጠናቀቁ መተግበሪያ መተግበሪያ ::",
+      "eng": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro possimus odio reiciendis. Atque vel incidunt sit deserunt? In, maxime temporibus? Sequi rerum eius accusamus veritatis quo qui voluptatem fugiat similique?"
+    },
+    "contactInfo": {
+      "email": "bg@test.com",
+      "facebookLink": "https://www.facebook.com",
+      "telegramLink": "https://tg.com",
+      "phoneNumbers": [
+        "+25111-232-23233",
+        "+25111-232-23233"
+      ]
+    },
+    "members": [
+      {
+        "name": {
+          "kaff": "Addeme Abebe",
+          "amh": "አደመ አበበ",
+          "eng": "Ademe Abebe"
+        },
+        "occopation": {
+          "kaff": "Bonga city administrator",
+          "amh": "የቦንጋ ከተማ አስተዳዳ",
+          "eng": "Bonga city Governor"
+        }
+      }
+    ]
+  },
+  {
+    "name": {
+      "kaff": "Boongi Kateme Dichee Uubariyoo",
+      "amh": "ቦንጋ ከተማ እድገት ድጋፍ ማስትባበርያ",
+      "eng": "Bonga Town Development Program"
+    },
+    "description": {
+      "kaff": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro possimus odio reiciendis. Atque vel incidunt sit deserunt? In, maxime temporibus? Sequi rerum eius accusamus veritatis quo qui voluptatem fugiat similique?",
+      "amh": "ዘባርቅ ምስጥርን ውድ መተግበሪያ ዕቅድ ገሰገሰ መጸሐፍ በመስኮት በመስኮት ቅኔዎቹ የጋሪው ጎሮምሳ ሌላውን እንደኛው የጋሪው ኢትዮጵያ ጎሮምሳ እንጂ ለሚገኙ ዕቅድ የኩሬውን በጠዋቱ ትክክል ቃላቶች የተሳካለት የኩሬውን ታታሪ በዘፈቀደ ኢትዮጵያ ኢትዮጵያ ኢትዮጵያ መብላት የጋሪው ዕቅድ እና ምድር ወይም ገሰገሰ ቀይሮ እሷ ለሱሪ እሷ መቋረጥ ኢትዮጵያ ከእትዬ የጋሪው የጋሪው ገሰገሰ ሌላውን ኢትዮጵያ ጎበዝ እሷ መጸሐፍ ወጣቶቹ መተግበሪያ ሲሻገር ኢትዮጵያ ብጠይቅ አጠናቀቁ መተግበሪያ መተግበሪያ ::",
+      "eng": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro possimus odio reiciendis. Atque vel incidunt sit deserunt? In, maxime temporibus? Sequi rerum eius accusamus veritatis quo qui voluptatem fugiat similique?"
+    },
+    "contactInfo": {
+      "email": "bg@test.com",
+      "facebookLink": "https://www.facebook.com",
+      "telegramLink": "https://tg.com",
+      "phoneNumbers": [
+        "+25111-232-23233",
+        "+25111-232-23233"
+      ]
+    },
+    "members": [
+      {
+        "name": {
+          "kaff": "Addeme Abebe",
+          "amh": "አደመ አበበ",
+          "eng": "Ademe Abebe"
+        },
+        "occopation": {
+          "kaff": "Bonga city administrator",
+          "amh": "የቦንጋ ከተማ አስተዳዳ",
+          "eng": "Bonga city Governor"
+        }
+      }
+    ]
+  },
+  {
+    "name": {
+      "kaff": "Boongi Kateme Dichee Uubariyoo",
+      "amh": "ቦንጋ ከተማ እድገት ድጋፍ ማስትባበርያ",
+      "eng": "Bonga Town Development Program"
+    },
+    "description": {
+      "kaff": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro possimus odio reiciendis. Atque vel incidunt sit deserunt? In, maxime temporibus? Sequi rerum eius accusamus veritatis quo qui voluptatem fugiat similique?",
+      "amh": "ዘባርቅ ምስጥርን ውድ መተግበሪያ ዕቅድ ገሰገሰ መጸሐፍ በመስኮት በመስኮት ቅኔዎቹ የጋሪው ጎሮምሳ ሌላውን እንደኛው የጋሪው ኢትዮጵያ ጎሮምሳ እንጂ ለሚገኙ ዕቅድ የኩሬውን በጠዋቱ ትክክል ቃላቶች የተሳካለት የኩሬውን ታታሪ በዘፈቀደ ኢትዮጵያ ኢትዮጵያ ኢትዮጵያ መብላት የጋሪው ዕቅድ እና ምድር ወይም ገሰገሰ ቀይሮ እሷ ለሱሪ እሷ መቋረጥ ኢትዮጵያ ከእትዬ የጋሪው የጋሪው ገሰገሰ ሌላውን ኢትዮጵያ ጎበዝ እሷ መጸሐፍ ወጣቶቹ መተግበሪያ ሲሻገር ኢትዮጵያ ብጠይቅ አጠናቀቁ መተግበሪያ መተግበሪያ ::",
+      "eng": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro possimus odio reiciendis. Atque vel incidunt sit deserunt? In, maxime temporibus? Sequi rerum eius accusamus veritatis quo qui voluptatem fugiat similique?"
+    },
+    "contactInfo": {
+      "email": "bg@test.com",
+      "facebookLink": "https://www.facebook.com",
+      "telegramLink": "https://tg.com",
+      "phoneNumbers": [
+        "+25111-232-23233",
+        "+25111-232-23233"
+      ]
+    },
+    "members": [
+      {
+        "name": {
+          "kaff": "Addeme Abebe",
+          "amh": "አደመ አበበ",
+          "eng": "Ademe Abebe"
+        },
+        "occopation": {
+          "kaff": "Bonga city administrator",
+          "amh": "የቦንጋ ከተማ አስተዳዳ",
+          "eng": "Bonga city Governor"
+        }
+      }
+    ]
+  }
+]

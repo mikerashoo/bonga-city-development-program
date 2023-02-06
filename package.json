@@ -10,6 +10,18 @@
     "next": "latest",
     "react": "^18.2.0",
     "react-bootstrap": "^1.0.1",
-    "react-dom": "^18.2.0"
+    "react-bootstrap-icons": "^1.10.2",
+    "react-dom": "^18.2.0",
+    "react-use-downloader": "^1.2.2",
+    "swr": "^2.0.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.9",
+    "@types/node": "^18.11.18",
+    "@types/react": "^18.0.27",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4",
+    "typescript": "^4.9.4"
   }
 }

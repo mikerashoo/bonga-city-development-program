@@ -1,11 +1,55 @@
 /* ensure all pages have Bootstrap CSS */
 @import '~bootstrap/dist/css/bootstrap.min.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
+
+
+@layer components { 
+  .btn-blue {
+    @apply text-white font-bold px-4 py-2 rounded bg-blue-600 hover:bg-blue-500;
+  }
+
+  .txt-success{
+    @apply !text-green-600
+  }
+  .text-first{
+    @apply text-green-600
+  }
+  
+  .txt-danger{
+    @apply text-red-600
+  }
+  .txt-warning{
+    @apply text-orange-600
+  }
+
+  .bg-success {
+    @apply !text-white !bg-green-500
+  }
+  .bg-first {
+    @apply text-white bg-green-600
+  }
+  .bg-second {
+    @apply  bg-slate-100
+  }
+  .bg-danger {
+    @apply text-white bg-red-500
+  }
+  .bg-warning {
+    @apply text-white bg-orange-500
+  }
+}
+
+html, body {
+  height: 100vh;
+}
 .md-container {
   max-width: 800px;
   padding-top: 2rem;
 }
-
+ 
 .sml-card {
   width: 22rem;
   margin: 1rem 0;
@@ -23,4 +67,51 @@
 .sml-logo {
   height: 1em;
   margin-left: 10px;
+}
+
+.carousel-inner {
+  height: 100vh;
+}
+
+
+.semicircle {
+  position: relative;
+  background: #2c3e50;
+  height: 50vh;
+}
+
+.semicircle::before {
+  position: absolute;
+  content: '';
+  left: 50%;
+  z-index: 10;
+  width: 100px;
+  height: 33px;
+  border-radius: 50%;
+  background: inherit;
+  transform: translateX(-50%) translateY(50%);
+  bottom: 0px;
+}
+
+
+hr.hr-text {
+  position: relative;
+    border: none;
+    height: 1px;
+    background: green;
+}
+
+hr.hr-text::before {
+    content: attr(data-content);
+    display: inline-block;
+    background: #fff;
+    font-weight: bold;
+    font-size: 0.85rem;
+    color: green;
+    border-radius: 30rem;
+    padding: 0.2rem 2rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
